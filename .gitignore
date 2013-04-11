@@ -4,3 +4,5 @@ __MACOSX
 rendered
 extracted
 bounding_boxes.json
+glyphicons.svg
+glyphicons@*.svg
