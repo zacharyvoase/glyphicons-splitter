@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+__MACOSX
+rendered
+extracted
+bounding_boxes.json
